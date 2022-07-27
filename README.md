@@ -34,4 +34,7 @@ Pegar el enlace del repositorio en la actividad T7_iris de Moodle
 ## EJECUCION
 Se procedio a realizar una grafica de  distribucion de diferentes muestras de plantas, usando la distribucion estandar por medio de paquetes en el cuaderno phyton.
 
+En esta actividad se solocita realizar los cálculos de las  desviaciones estándar de la data iris: SépaloLongitudCm , SépaloAnchoCm , PétaloLongitudCm y PétaloAnchoCm
+Con los datos obtenidos se procedió a graficar las curvas de distribución normal con sus respectivas leyendas en cada uno de los eje
+
 
